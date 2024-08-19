@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "siriwave": "^2.4.0",
+    "textillate": "^0.4.1"
+  }
+}
